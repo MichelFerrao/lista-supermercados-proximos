@@ -1,4 +1,4 @@
-# Mercados Próximos
+# Supermercados Próximos
 #### Lista de Supermercados Próximos.
 
 ## Localização
